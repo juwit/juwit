@@ -10,7 +10,7 @@
 
 freelance solution & software architect 🏗
 
-whale & containers lover 🐳
+containers 🐳 & linux 🐧 💙
 
 teacher & trainer 🎓 @ univ-lille.fr
 
