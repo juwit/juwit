@@ -10,12 +10,12 @@
 
 freelance solution & software architect 🏗
 
-whale lover 🐳
+whale & containers lover 🐳
 
 teacher & trainer 🎓 @ univ-lille.fr
 
-<div style="display:flex; align-items:center;">
+<p style="display:flex; align-items:center;">
   core commiter of <a href="https://github.com/gaia-app/gaia">gaia-app</a>&nbsp;<img src="https://github.com/juwit/juwit/raw/master/gaia.png"/>
-</div>
+</p>
 
- 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=juwit&count_private=true&show_icons=true&hide=stars&layout=compact)](https://github.com/juwit) 
