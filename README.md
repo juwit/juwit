@@ -14,8 +14,14 @@ containers 🐳 & linux 🐧 💙
 
 teacher & trainer 🎓 @ univ-lille.fr
 
+speaker 🎙
+
 <p style="display:flex; align-items:center;">
   core commiter of <a href="https://github.com/gaia-app/gaia">gaia-app</a>&nbsp;<img src="https://github.com/juwit/juwit/raw/main/gaia.png"/>
+</p>
+
+<p style="display:flex; align-items:center;">
+  core commiter of <a href="https://gitlab.univ-lille.fr/gitlab-classrooms/gitlab-classrooms">Gitlab Classrooms</a>&nbsp;<img src="https://gitlab.univ-lille.fr/uploads/-/system/project/avatar/16365/favicon.png?width=16"/>
 </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=juwit&count_private=true&show_icons=true&hide=stars&layout=compact)](https://github.com/juwit) 
